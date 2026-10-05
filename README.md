@@ -1,7 +1,7 @@
 # LoanLens — EMI Calculator
 
 > **Streamhub QA Automation Assessment — Section A**  
-> Built by: [Vikram Kumar] | [vikramakumar21@gmail.com] | [GitHub Profile URL]
+> Built by: [Vikram Kumar] | [vikramakumar21@gmail.com] | [https://github.com/Vikrama0103IT]
 
 ---
 
